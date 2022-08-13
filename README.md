@@ -1,4 +1,4 @@
-# HESS Algorithm v/s ML
+# HESS Algorithm v/s ML Algorithms
 
 1 - Maximum Margin Classifier (fast/weak) hess-mmc.cc
 
